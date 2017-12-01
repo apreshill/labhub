@@ -1,6 +1,6 @@
 ---
 
-# h1 Heading 8-)
+# h1 Heading 
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
@@ -17,17 +17,6 @@ ___
 ***
 
 
-## Typographic replacements
-
-Enable typographer option to see result.
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,,  -- ---
-
-"Smartypants, double quotes" and 'single quotes'
 
 
 ## Emphasis
@@ -135,19 +124,21 @@ Right aligned columns
 
 ## Images
 
-`![Collabocats](https://octodex.github.com/collabocats)`
-![Collabocats](https://octodex.github.com/collabocats)
+`![Collabocats](https://octodex.github.com/images/collabocats.jpg)`
+![Collabocats](https://octodex.github.com/images/collabocats.jpg)
 
-`![Labtocat](https://octodex.github.com/labtocat "Labtocat")`
-![Labtocat](https://octodex.github.com/labtocat "Labtocat")
-
-
+`![Labtocat](https://octodex.github.com/images/labtocat.png "Labtocat")`
+![Labtocat](https://octodex.github.com/images/labtocat.png "Labtocat")
 
 
-### [Emojies](https://gist.github.com/rxaviers/7360908)
+
+
+### [Emojis](https://gist.github.com/rxaviers/7360908)
 
 :heart: `:heart:`
+
 :monkey: `:monkey:`
+
 :umbrella: `:umbrella:`
 
 
