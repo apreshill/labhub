@@ -1,0 +1,1 @@
+Note that the PDF viewer in GitLab can really make a mess when viewing some article PDFs. For best viewing, please download then read!
