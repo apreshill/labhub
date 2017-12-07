@@ -1,8 +1,7 @@
 Welcome! This project contains resources for new graduate research assistants, research staff, and volunteers.
 
-# How to use this repository
-
 ## Please review the following links first:
+Things that applly a t university level
 
 * [OHSU's New Hire Resources](https://o2.ohsu.edu/human-resources/employment/new-hire-resources.cfm)
 * [OHSU's Code of Conduct](https://o2.ohsu.edu/integrity-department/code-of-conduct/index.cfm)
@@ -11,6 +10,7 @@ Welcome! This project contains resources for new graduate research assistants, r
 * [OHSU New Employee Paperwork](http://www.ohsu.edu/xd/about/services/human-resources/working-at-ohsu/new-employee-paperwork.cfm)
 
 ## Second, review the following information about working at OHSU's Center for Spoken Language Understanding (CSLU):
+Things that applly at at deparment level
 
 * [About CSLU](02-cslu-information/about-cslu.md)
 * [Our lab's code of conduct](02-cslu-information/code-of-conduct.md)
@@ -19,6 +19,7 @@ Welcome! This project contains resources for new graduate research assistants, r
 * [Our servers and data repositories](02-cslu-information/servers-and-data-repositories.md)
 
 ## Third, please review our lab's guidelines for:
+Things that apply at a lab level
 
 * [Scholarly contributions and authorship](03-lab-policies/contributions-and-authorship.md)
 * [Complying with NIH public access policy](03-lab-policies/nih-public-access-policy.md)
@@ -37,6 +38,7 @@ Welcome! This project contains resources for new graduate research assistants, r
 * Add yourself and your contact information to our [project team directory](https://repo.cslu.ohsu.edu/language-outcomes/housekeeping/blob/master/contact-info.md)- we are excited to have you on board!
 
 ## Sixth, check out the Onboarding Wiki:
+Related more in depth documentation
 * The [Onboarding Wiki](https://repo.cslu.ohsu.edu/language-outcomes/onboarding/wikis/home) provides info on human logistics concerns--coffee, transportation, etc.
 
 ## Finally, please read the required readings
