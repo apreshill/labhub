@@ -16,7 +16,7 @@ This folder includes an example respository of resources for new new students, g
 
 Document, document, document!  Every lab has a story about an essential process that was lost when a postdoc, student, or research staff member moved on.  Having a shared system for documenting and versioning your protocols can help with the transition between lab members, manuscript writing, and reproducibility.  
 
-This folder includes an example protocol from the [Hill lab]((https://alison.rbind.io/), and a template to adapt for your own documentation.
+This folder includes an example protocol from the [Hill lab](https://alison.rbind.io/), and a template to adapt for your own documentation.
 
 **Housekeeping**
 
