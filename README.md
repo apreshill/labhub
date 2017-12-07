@@ -1,7 +1,7 @@
 # Welcome to Labhub
 The Labhub workshop and repository were created as part of the [**Open Science at OHSU**](http://www.ohsu.edu/blogs/researchnews/2017/12/04/open-science-panel-the-evolving-landscape-of-scientific-communication-dec-8/) event on December, 8 2017.
 
-The Labhub repository was adapted from a Gitlab repository, which [Dr. Allison Hill](https://alison.rbind.io/) and her colleagues built to onboard new students and postdoctoral fellows, and facilitate data management, transparency, the long-term value of research contributions, and a safe academic space.
+The Labhub repository was adapted from a Gitlab repository, which [Dr. Alison Hill](https://alison.rbind.io/) and her colleagues built to onboard new students and postdoctoral fellows, and facilitate data management, transparency, the long-term value of research contributions, and a safe academic space.
 
 Labhub is a work in progress.  We created this repository as an education and demonstration tool for faculty, postdocs, and students curious about how documentation, open science workflows, and tools like Github can contribute to a healthy and productive research environment.  Your ideas and contributions are welcome!
 
@@ -10,7 +10,7 @@ Advice, tools, and exampleas are organized into three areas:  onboarding, protoc
 
 **Onboarding**
 
-This folder includes an example respository of resources for new new students, graduate research assistants, research staff, and volunteers.  We've also created a onboarding template to help you think through the goals and issues important to your enviornment, which points to resources, like example codes of conduct and authorship guidelines.
+This folder includes an example repository of resources for new students, graduate research assistants, research staff, and volunteers.  We've also created a onboarding template to help you think through the goals and issues important to your enviornment, which points to resources, like example codes of conduct and authorship guidelines.
 
 **Protocols**
 
