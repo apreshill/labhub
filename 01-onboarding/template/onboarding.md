@@ -1,16 +1,35 @@
-Welcome! This project contains resources for new graduate research assistants, research staff, and volunteers.
+Use this template to document and reference resources, expectations, and policies for new lab members.  Build on refine the sections and examples provided here.
 
-## Please review the following links first:
-Things that applly a t university level
+## Welcome Message
+> Provide a brief introduction to your team.  Consider including the name and focus of your lab, and where it sits within the larger university enviornment.  Let new members know how happy you are to have them on board and how they can use this resource.
 
-* [OHSU's New Hire Resources](https://o2.ohsu.edu/human-resources/employment/new-hire-resources.cfm)
-* [OHSU's Code of Conduct](https://o2.ohsu.edu/integrity-department/code-of-conduct/index.cfm)
-* [Conflicts of Interest and OHSU Disclosure Requirements](https://o2.ohsu.edu/integrity-department/all-ohsu/conflict-of-interest/index.cfm)
-* [OHSU Employee Onboarding Checklist](https://www.ohsu.edu/xd/about/services/human-resources/working-at-ohsu/upload/employee-onboarding-checklist.pdf)
-* [OHSU New Employee Paperwork](http://www.ohsu.edu/xd/about/services/human-resources/working-at-ohsu/new-employee-paperwork.cfm)
+## Parent Organization Resources and Processes
+> Whether your a new student, postdoc, or staff member, getting started at a new organization can be confusing and overwhelming.  Use this section to describe and reference the processes and resources relevant to new lab members.  
 
-## Second, review the following information about working at OHSU's Center for Spoken Language Understanding (CSLU):
-Things that applly at at deparment level
+Information to consider:
+
+* University intranet sites
+* Employee onboarding checklist
+* Public Safety Office location and contact information
+* University Code of Coduct
+* New hire resources and paperwork 
+* Staff and student organizations
+* Parking and transportation
+* Library website
+
+## Department and Lab Specific Information
+> Provide some information about your department and lab that will help new members learn about your colleagues, connect with peers, and leverage educational opportunities.
+
+Information to consider:
+
+* Department website, faculty, and student pages
+* Seminars and journal clubs
+* Lab publication list
+
+Pro-tip!  You can create and include links to your publication list from PubMed and other databases.  Ask your library for help :smile:
+
+## Lab Policies and Guidelines
+> 
 
 * [About CSLU](02-cslu-information/about-cslu.md)
 * [Our lab's code of conduct](02-cslu-information/code-of-conduct.md)
