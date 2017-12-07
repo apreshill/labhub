@@ -25,7 +25,12 @@ Need to find a team member's Skype ID, add someone to your Slack Team, or confir
 ## You don't have to use Github for your Labhub!
 The tools and strategies included in this repository can be tanslated to different environments.  There are many reasons why Github may not be the best solution for your team - maybe you're dealing with PHI data or most of your labmates aren't comfortable using Github.  In these cases, tools like [Gitlab](https://about.gitlab.com/), an electronic lab notebook, or even a simple folder structure might be the better starting place.
 
-## Contributions
+## Contributing
+First off, thanks for taking the time to contribute!  We want Labhub to be a community driven project and we want to know about your experience and ideas for faciliating transparency, reproducibility, and inclusion in a research lab.
+
+Please feel free to create an issue or submit a pull request, or just fork this repository to use it in your lab.
+
+All contributions will be licensed under the same terms noted below.
 
 ## Licensing  
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Except where otherwise noted, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
