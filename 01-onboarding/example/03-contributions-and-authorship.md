@@ -48,7 +48,12 @@ In addition, authors should have confidence in the integrity of the contribution
 
 # Non-author contributors
 
-Contributors who meet fewer than all 4 of the above criteria for authorship should not be listed as authors, but they should be acknowledged. Examples of activities that alone (without other contributions) do not qualify a contributor for authorship are acquisition of funding; general supervision of a research group or general administrative support; and writing assistance, technical editing, language editing, and proofreading. Those whose contributions do not justify authorship may be acknowledged individually or together as a group under a single heading (e.g. “Clinical Investigators” or “Participating Investigators”), and their contributions should be specified (e.g., “served as scientific advisors,” “critically reviewed the study proposal,” “collected data,” “provided and cared for study patients”, “participated in writing or technical editing of the manuscript”).
+Contributors who meet fewer than all 4 of the above criteria for authorship cannot be listed as authors, but they will be acknowledged. Examples of activities that alone (without other contributions) do not qualify a contributor for authorship are:
+* acquisition of funding
+* general supervision of a research group or general administrative support
+* and writing assistance, technical editing, language editing, and proofreading. 
+
+Those whose contributions do not justify authorship may be acknowledged individually or together as a group under a single heading (e.g. “Clinical Investigators” or “Participating Investigators”), and their contributions will be specified (e.g., “served as scientific advisors,” “critically reviewed the study proposal,” “collected data,” “provided and cared for study patients”, “participated in writing or technical editing of the manuscript”).
 
 # More reading:
 
