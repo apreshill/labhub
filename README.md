@@ -10,20 +10,20 @@ Advice, tools, and exampleas are organized into three areas:  onboarding, protoc
 
 **Onboarding**
 
-This folder includes an example respository of resources for new new graduate research assistants, research staff, and volunteers.  We've also created a onboarding template to help you think through the goals and issues important to your enviornment, which points to resources, like example codes of conduct and authorship guidelines.
+This folder includes an example respository of resources for new new students, graduate research assistants, research staff, and volunteers.  We've also created a onboarding template to help you think through the goals and issues important to your enviornment, which points to resources, like example codes of conduct and authorship guidelines.
 
 **Protocols**
 
 Document, document, document!  Every lab has a story about an essential process that was lost when a postdoc, student, or research staff member moved on.  Having a shared system for documenting and versioning your protocols can help with the transition between lab members, manuscript writing, and reproducibility.  
 
-This folder includes an example protocol from the Hill lab, and a template to adapt for your own documentation.
+This folder includes an example protocol from the [Hill lab]((https://alison.rbind.io/), and a template to adapt for your own documentation.
 
 **Housekeeping**
 
-Need to find a team member's Skype ID, add someone to your Slack Team, or confirm when your next NIH progress report is due?  Check out our Housekeeping template to record everyday organization data for easy sharing and retreival.
+Need to find a team member's Skype ID, add someone to your Slack Team, or confirm when your next NIH progress report is due?  Check out our Housekeeping template to record everyday organizational data for easy sharing and retreival.
 
 ## You don't have to use Github for your Labhub!
-The tools and strategies included in this repository can be tanslated to different environments.  There a lots of reasons why Github may not be the best solution for your team - maybe you're dealing with PHI data or most of your labmates aren't comfortable using Github.  In these cases, tools like [Gitlab]((https://about.gitlab.com/), an electronic lab notebook, or even a simple folder structure might be the better starting place.
+The tools and strategies included in this repository can be tanslated to different environments.  There are many reasons why Github may not be the best solution for your team - maybe you're dealing with PHI data or most of your labmates aren't comfortable using Github.  In these cases, tools like [Gitlab](https://about.gitlab.com/), an electronic lab notebook, or even a simple folder structure might be the better starting place.
 
 ## Contributions
 
