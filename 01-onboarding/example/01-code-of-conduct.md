@@ -28,8 +28,8 @@ experiences, preferences, and perspectives. This diversity is a strength in our 
 miscommunications and disagreements should be handled in ways that resolve the issues, rather than inflaming
 then. We all make mistakes--learning from them is what fosters a healthy and inclusive community.
 
-Report violations of this code or harassment of any form to <PI name>.
-All communication will be treated with complete confidentiality. Please also reference this recent OHSU podcast on [preventing sexual harassment at OHSU](https://o2.ohsu.edu/blogs/staffnews/2017/11/28/ohsu-week-podcast-preventing-sexual-harassment-at-ohsu/). If you do not feel comfortable speaking with <PI name>, please contact the [OHSU Ombudsman](https://www.ohsu.edu/xd/about/services/ombudsman/), who is available to all faculty, staff, administrators, students, post-doctoral fellows, trainees and volunteers. We take harassment very seriously, no matter the
+Report violations of this code or harassment of any form to the PIs.
+All communication will be treated with complete confidentiality. Please also reference this recent OHSU podcast on [preventing sexual harassment at OHSU](https://o2.ohsu.edu/blogs/staffnews/2017/11/28/ohsu-week-podcast-preventing-sexual-harassment-at-ohsu/). If you do not feel comfortable speaking with the PI, please contact the [OHSU Ombudsman](https://www.ohsu.edu/xd/about/services/ombudsman/), who is available to all faculty, staff, administrators, students, post-doctoral fellows, trainees and volunteers. We take harassment very seriously, no matter the
 experience, seniority, or role in the lab of either the perpetrator or the victim. People who report incidents will be believed and
 will not be dismissed.
 
