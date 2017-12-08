@@ -10,7 +10,7 @@ Advice, tools, and exampleas are organized into three areas:  onboarding, protoc
 
 **Onboarding**
 
-This folder includes an example repository of resources for new students, graduate research assistants, research staff, and volunteers.  We've also created a onboarding template to help you think through the goals and issues important to your enviornment, which points to resources, like example codes of conduct and authorship guidelines.
+This folder includes an [example repository](https://github.com/apreshill/labhub/tree/master/01-onboarding/example) of resources for new students, graduate research assistants, research staff, and volunteers.  We've also created a [onboarding template](https://github.com/apreshill/labhub/blob/master/01-onboarding/template/onboarding.md) to help you think through the goals and issues important to your enviornment.
 
 **Protocols**
 
