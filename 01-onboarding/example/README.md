@@ -23,6 +23,6 @@ Welcome! This project contains resources for new graduate research assistants, r
 * Update progress on your onboarding [list](individual-onboarding) by crossing things off your list as you complete them
 * Edit our onboarding materials! Please edit any files to clarify or improve so that the information in this repository will be useful to our next new team member!
 * Add yourself and your contact information to our [project team directory](https://repo.cslu.ohsu.edu/language-outcomes/housekeeping/blob/master/contact-info.md)- we are excited to have you on board!
-* Don't miss our [project wiki](../labhub/wiki) provides info on human logistics concerns--coffee, transportation, etc.
+* Don't miss our [project wiki](./labhub/wiki) provides info on human logistics concerns--coffee, transportation, etc.
 
 
