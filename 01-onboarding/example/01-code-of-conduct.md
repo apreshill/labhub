@@ -28,29 +28,6 @@ experiences, preferences, and perspectives. This diversity is a strength in our 
 miscommunications and disagreements should be handled in ways that resolve the issues, rather than inflaming
 then. We all make mistakes--learning from them is what fosters a healthy and inclusive community.
 
-Report violations of this code or harassment of any form to <PI name>.
-All communication will be treated with complete confidentiality. Please also reference this recent OHSU podcast on [preventing sexual harassment at OHSU](https://o2.ohsu.edu/blogs/staffnews/2017/11/28/ohsu-week-podcast-preventing-sexual-harassment-at-ohsu/). If you do not feel comfortable speaking with <PI name>, please contact the [OHSU Ombudsman](https://www.ohsu.edu/xd/about/services/ombudsman/), who is available to all faculty, staff, administrators, students, post-doctoral fellows, trainees and volunteers. We take harassment very seriously, no matter the
-experience, seniority, or role in the lab of either the perpetrator or the victim. People who report incidents will be believed and
-will not be dismissed.
-
-
-
-
-
-
-
-Resources:
-
-https://github.com/WhitakerLab/Onboarding/blob/master/CODE_OF_CONDUCT.md
-
-http://unconf17.ropensci.org/coc.html
-
-https://srccon.org/conduct/
-
-https://www.ashedryden.com/blog/codes-of-conduct-101-faq
-
-http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy
-
-http://incisive.nu/2014/codes-of-conduct/
-
-https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/
+Report violations of this code or harassment of any form to Alison, the project PI.
+All communication will be treated with complete confidentiality. Please also reference this recent OHSU podcast on [preventing sexual harassment at OHSU](https://o2.ohsu.edu/blogs/staffnews/2017/11/28/ohsu-week-podcast-preventing-sexual-harassment-at-ohsu/). If you do not feel comfortable speaking with Alison, please contact the [OHSU Ombudsman](https://www.ohsu.edu/xd/about/services/ombudsman/), who is available to all faculty, staff, administrators, students, post-doctoral fellows, trainees and volunteers. We take harassment very seriously, no matter the
+experience, seniority, or role in the lab of either the perpetrator or the victim. People who report incidents will be believed and will not be dismissed.
