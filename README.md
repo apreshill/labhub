@@ -6,11 +6,11 @@ The Labhub repository was adapted from a Gitlab repository, which [Dr. Alison Hi
 Labhub is a work in progress.  We created this repository as an education and demonstration tool for faculty, postdocs, and students curious about how documentation, open science workflows, and tools like Github can contribute to a healthy and productive research environment.  Your ideas and contributions are welcome!
 
 ## What you'll find in the Labhub repository
-Advice, tools, and exampleas are organized into three areas:  onboarding, protocols, and housekeeping.  
+Advice, tools, and examples are organized into three areas:  onboarding, protocols, and housekeeping.  
 
 **Onboarding**
 
-This folder includes an [example repository](https://github.com/apreshill/labhub/tree/master/01-onboarding/example) of resources for new students, graduate research assistants, research staff, and volunteers.  We've also created a [onboarding template](https://github.com/apreshill/labhub/blob/master/01-onboarding/template/onboarding.md) to help you think through the goals and issues important to your enviornment.
+This folder includes an [example repository](https://github.com/apreshill/labhub/tree/master/01-onboarding/example) of resources for new students, graduate research assistants, research staff, and volunteers.  We've also created a [onboarding template](https://github.com/apreshill/labhub/blob/master/01-onboarding/template/onboarding.md) to help you think through the goals and issues important to your environment.
 
 **Protocols**
 
@@ -20,13 +20,13 @@ This folder includes an example protocol from the [Hill lab](https://alison.rbin
 
 **Housekeeping**
 
-Need to find a team member's Skype ID, add someone to your Slack Team, or confirm when your next NIH progress report is due?  Check out our Housekeeping template to record everyday organizational data for easy sharing and retreival.
+Need to find a team member's Skype ID, add someone to your Slack Team, or confirm when your next NIH progress report is due?  Check out our Housekeeping template to record everyday organizational data for easy sharing and retrieval.
 
 ## You don't have to use Github for your Labhub!
-The tools and strategies included in this repository can be tanslated to different environments.  There are many reasons why Github may not be the best solution for your team - maybe you're dealing with PHI data or most of your labmates aren't comfortable using Github.  In these cases, tools like [Gitlab](https://about.gitlab.com/), an electronic lab notebook, or even a simple folder structure might be the better starting place.
+The tools and strategies included in this repository can be translated to different environments.  There are many reasons why Github may not be the best solution for your team - maybe you're dealing with PHI data or most of your labmates aren't comfortable using Github.  In these cases, tools like [Gitlab](https://about.gitlab.com/), an electronic lab notebook, or even a simple folder structure might be the better starting place.
 
 ## Contributing
-First off, thanks for taking the time to contribute!  We want Labhub to be a community driven project and we want to know about your experience and ideas for faciliating transparency, reproducibility, and inclusion in a research lab.
+First off, thanks for taking the time to contribute!  We want Labhub to be a community driven project and we want to know about your experience and ideas for facilitating transparency, reproducibility, and inclusion in a research lab.
 
 Please feel free to create an issue or submit a pull request, or just fork this repository to use it in your lab.
 
