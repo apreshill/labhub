@@ -43,6 +43,12 @@ Examples:
 * Open access policy
 * Data privacy and data sharing
 
+Pro-tip!  A lab code of conduct, or COC, provides an opportunity to codify the organizational culture you want to foster, by clearly describing desired and unacceptable kinds of behavior and interpersonal communication.  
+
+For example, like the [Whitaker Lab](https://github.com/WhitakerLab/Onboarding/blob/master/CODE_OF_CONDUCT.md), you can make clear that sexist and racist langague or imagery are not acceptable, and that your lab is dedicated to providing a safe and inclusive environment for everyoone, regardsless of gender, gender identify and expression, sexual orientation, disablity, pysical appearance, body size, race, age or religion.
+
+We also recommend checking out all [all of the Whitaker Lab's onboarding materials.](https://github.com/WhitakerLab/Onboarding)
+
 ## Additional Resources and Readings
 > Maybe your lab has a wiki, or your university sits at the top of a hill and one might need a little help finding the good food and drink :pizza: Think through the things you wish you knew when you first arrived - if they don't belong in one of the sections above, add them here.
 
