@@ -19,7 +19,7 @@ Welcome! This project contains resources for new graduate research assistants, r
 * Get up to date with [key readings](05-key-readings) to help you get up to speed about the scientific background for our research
 
 ## Get to work!
-* Make your on onboarding to-do list [here](06-individual-onboarding) and @hillali will collaborate on the list with you
+* Make your on onboarding to-do list [here](06-individual-onboarding) and @apreshill will collaborate on the list with you
 * Update progress on your onboarding [list](individual-onboarding) by crossing things off your list as you complete them
 * Edit our onboarding materials! Please edit any files to clarify or improve so that the information in this repository will be useful to our next new team member!
 * Add yourself and your contact information to our [project team directory](../../03-housekeeping/example/team-contacts.md)- we are excited to have you on board!
