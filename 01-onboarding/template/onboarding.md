@@ -45,7 +45,7 @@ Examples:
 
 :100: Pro-tip!  A lab code of conduct, or COC, provides an opportunity to codify the organizational culture you want to foster, by clearly describing desired and unacceptable kinds of behavior and interpersonal communication.  
 
-For example, like the [Whitaker Lab](https://github.com/WhitakerLab/Onboarding/blob/master/CODE_OF_CONDUCT.md), you can make clear that sexist and racist language or imagery are not acceptable, and that your lab is dedicated to providing a safe and inclusive environment for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
+For example, like the [Hill Lab](https://github.com/apreshill/labhub/blob/master/01-onboarding/example/01-code-of-conduct.md) and the [Whitaker Lab](https://github.com/WhitakerLab/Onboarding/blob/master/CODE_OF_CONDUCT.md), you can make clear that sexist and racist language or imagery are not acceptable, and that your lab is dedicated to providing a safe and inclusive environment for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
 
 Check out all of the [Whitaker Lab's onboarding materials.](https://github.com/WhitakerLab/Onboarding)
 
