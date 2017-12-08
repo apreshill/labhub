@@ -52,6 +52,6 @@ Examples:
 * How to decipher the endless list of acronyms your new colleagues are throwing at you :stuck_out_tongue_winking_eye:
 
 ## Next Steps
-> Make this material more actionable by asking new lab members to collaborate with you on a personalized onboarding plan.  And don't underestimate the value of their feedback on this material - welcome contributions.
+> Make this material more actionable by asking new lab members to collaborate with you on a personalized onboarding plan.  And don't underestimate the value of their feedback on this material - welcome their contributions.
 
-Pro-tip!  Contributors will not only improve the quality of your labhub material, they help with sustainablity.
+Pro-tip!  Contributions will not only improve the quality of your labhub material, they help make it sustainable.
