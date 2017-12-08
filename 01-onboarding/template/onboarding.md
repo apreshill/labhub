@@ -4,7 +4,7 @@ Use this template to document and reference resources, expectations, and policie
 > Provide a brief introduction to your team.  Consider including the name and focus of your lab, and where it sits within the larger university environment.  **Let new members know how happy you are to have them on board and how they can use this information.**
 
 ## Parent Organization Resources & Processes
-> Whether your are a new student, postdoc, or staff member, getting started at a new organization can be confusing and overwhelming.  Use this section to highlight the processes and resources relevant to new lab members.  
+> Whether you are a new student, postdoc, or staff member, getting started at a new organization can be confusing and overwhelming.  Use this section to highlight the processes and resources relevant to new lab members.  
 
 Examples:
 
@@ -45,7 +45,7 @@ Examples:
 
 :100: Pro-tip!  A lab code of conduct, or COC, provides an opportunity to codify the organizational culture you want to foster, by clearly describing desired and unacceptable kinds of behavior and interpersonal communication.  
 
-For example, like the [Whitaker Lab](https://github.com/WhitakerLab/Onboarding/blob/master/CODE_OF_CONDUCT.md), you can make clear that sexist and racist langague or imagery are not acceptable, and that your lab is dedicated to providing a safe and inclusive environment for everyone, regardless of gender, gender identify and expression, sexual orientation, disablity, physical appearance, body size, race, age or religion.
+For example, like the [Whitaker Lab](https://github.com/WhitakerLab/Onboarding/blob/master/CODE_OF_CONDUCT.md), you can make clear that sexist and racist language or imagery are not acceptable, and that your lab is dedicated to providing a safe and inclusive environment for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
 
 Check out all of the [Whitaker Lab's onboarding materials.](https://github.com/WhitakerLab/Onboarding)
 
