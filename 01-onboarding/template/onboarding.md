@@ -54,8 +54,8 @@ Check out all of the [Whitaker Lab's onboarding materials.](https://github.com/W
 
 Examples:
 
-* Where to find the best coffee on campus
-* How to decipher the endless list of acronyms your new colleagues are throwing at you :stuck_out_tongue_winking_eye:
+* [Where to find the best coffee on campus](https://github.com/apreshill/labhub/wiki/05-food-and-coffee)
+* How to decipher the endless [list of acronyms](https://github.com/apreshill/labhub/wiki/04-CSLU-acronyms) your new colleagues are throwing at you :stuck_out_tongue_winking_eye:
 
 ## Next Steps
 > Make this material more actionable by asking new lab members to collaborate with you on a personalized onboarding plan.  And don't underestimate the value of their feedback on this material - welcome their contributions.
