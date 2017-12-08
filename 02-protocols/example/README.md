@@ -6,23 +6,23 @@ In this folder you'll find:
 * Suggested readings: these are papers about transcription itself that might be helpful to you (and are generally
 interesting). Not required -- just here if you want them! Note that in-browser PDF rendering can scramble pages, so for the best reading experience, download and read locally.
 * Data storage: there may come a day when you want to consult the raw source data for a project. There are two types of raw data:
-  * [Paper Files](datastorage/files)
-  * [Recordings](datastorage/recordings)
+  * [Paper Files](datastorage/files.md)
+  * [Recordings](datastorage/recordings.md)
 * All about transcribing: includes lots of good-to-know info such as...
 
-  * [Transcription Overview](transcription/transcription)
-  * [Formatting and Uploading](transcription/formatting-uploading)
-  * [ELAN Tips and Tricks](transcription/elan)
-  * [Activity Details](transcription/activities)
-  * [ADOS overview](transcription/ados)
-  * [Transcription Guidelines](transcription/guidelines)
-  * [UW Specific Information](transcription/uw)
-  * [ADHD Specific Information](transcription/adhd)
-  * [ERPA Specific Information](transcription/erpa)
-  * [Getting Audio from audio2](transcription/audio2)
-  * [More about the TextGrid file format](transcription/textgrids)
-  * [Cool (and relevant) bash tricks](transcription/bash)
-  * [Audio cleaning](transcription/cleaning)
+  * [Transcription Overview](transcription/transcription.md)
+  * [Formatting and Uploading](transcription/formatting-uploading.md)
+  * [ELAN Tips and Tricks](transcription/elan.md)
+  * [Activity Details](transcription/activities.md)
+  * [ADOS overview](transcription/ados.md)
+  * [Transcription Guidelines](transcription/guidelines.md)
+  * [UW Specific Information](transcription/uw.md)
+  * [ADHD Specific Information](transcription/adhd.md)
+  * [ERPA Specific Information](transcription/erpa.md)
+  * [Getting Audio from audio2](transcription/audio2.md)
+  * [More about the TextGrid file format](transcription/textgrids.md)
+  * [Cool (and relevant) bash tricks](transcription/bash.md)
+  * [Audio cleaning](transcription/cleaning.md)
 
 # Servers
 
