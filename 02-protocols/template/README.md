@@ -18,8 +18,8 @@ Examples:
 > For each activity note its purpose, the actions needed to complete the task, individual and organizational roles, the timeline, where needed information or materials live, and where it takes place.
 
 ## Describe the Procedure
-> Once you've broken down the full context of an activity (those 5 Ws), translate it into a set of instructions.  A good protocol is self-contained, so readers shouldn't have to hunt for additional information to understand a task or take action.
+> Once you've broken down the full context of an activity (those 5 Ws above), translate it into a set of instructions.  A good protocol is self-contained, so readers shouldn't have to hunt for additional information to understand a task or take action.
 
-:100: Pro-tip!  Update your protocols regularly and don't forget about authentication.  There are many regular activities, like reporting, that require access to protected databases and personal information.  Don't share passwords!  Many of these systems, like NIH NCBI and eRA Commons, have delegate access capabilities.  
+:100: Pro-tip!  Update your protocols regularly and don't forget about authentication.  There are many activities, like reporting, that require access to protected databases and personal information.  Don't share passwords!  Many of these systems, like NIH NCBI and eRA Commons, have delegate access capabilities.  
 
 
