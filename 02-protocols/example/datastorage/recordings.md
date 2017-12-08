@@ -15,7 +15,7 @@ asd:/home/asd-lang/ERPA/ADOS/video/
 ## ERPA CELFs
 There has been a partial digitization effort for the ERPA CELF video recordings -- you may be asked to resume this endeavor. 
 
-Consult the [Airtable CELF digitization tracker] (https://airtable.com/invite/l?inviteId=invSCS7qWQ2CmDbPr&inviteToken=ec920973ff253744b078448797db31d6) to see the digitization progress and update as you upload more files. Notice that you should focus first on those labeled 'Completed' in the 'status' column. These are guaranteed to be CELF-4's (for older children), rather than CELF-2's (for preschoolers), and are more useful for our analyses.
+Consult the [Airtable CELF digitization tracker] (https://airtable.com) to see the digitization progress and update as you upload more files. Notice that you should focus first on those labeled 'Completed' in the 'status' column. These are guaranteed to be CELF-4's (for older children), rather than CELF-2's (for preschoolers), and are more useful for our analyses.
 
 The digitized videos are located in
 
