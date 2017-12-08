@@ -25,7 +25,7 @@ Need to find a team member's Skype ID, add someone to your Slack Team, or confir
 ## You don't have to use Github for your Labhub!
 The tools and strategies included in this repository can be translated to different environments.  There are many reasons why Github may not be the best solution for your team - maybe you're dealing with PHI data or most of your labmates aren't comfortable using Github.  In these cases, tools like [Gitlab](https://about.gitlab.com/), an electronic lab notebook, or even a simple folder structure might be the better starting place.
 
-## A Note about scope
+## A note about scope
 This repository and the methods we suggest hardly scratch the surface when it comes to addressing research rigor and reuse, let alone sexism, racism, ageism, or ableism in a lab.  We plan to add a reading list to this repository which addresses these issues with more depth and breadth. 
 
 ## Contributing
