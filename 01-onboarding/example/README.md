@@ -22,7 +22,7 @@ Welcome! This project contains resources for new graduate research assistants, r
 * Make your on onboarding to-do list [here](06-individual-onboarding) and @hillali will collaborate on the list with you
 * Update progress on your onboarding [list](individual-onboarding) by crossing things off your list as you complete them
 * Edit our onboarding materials! Please edit any files to clarify or improve so that the information in this repository will be useful to our next new team member!
-* Add yourself and your contact information to our [project team directory](../03-housekeeping/example/team-contacts.md)- we are excited to have you on board!
+* Add yourself and your contact information to our [project team directory](../../03-housekeeping/example/team-contacts.md)- we are excited to have you on board!
 * Don't miss our [project wiki](https://github.com/apreshill/labhub/wiki) provides info on human logistics concerns--coffee, transportation, etc.
 
 
