@@ -6,7 +6,7 @@ The Labhub repository was adapted from a Gitlab repository, which [Dr. Alison Hi
 Labhub is a work in progress.  We created this repository as an education and demonstration tool for faculty, postdocs, and students curious about how documentation, open science workflows, and tools like Github can contribute to a healthy and productive research environment.  Your ideas and contributions are welcome!
 
 ## What you'll find in the Labhub repository
-Advice, tools, and examples are organized into three areas:  onboarding, protocols, and housekeeping.  
+Advice, tools, and examples are organized into four areas:  onboarding, protocols, housekeeping, and wiki.  
 
 **Onboarding**
 
@@ -21,6 +21,10 @@ This folder includes an [example protocol](https://github.com/apreshill/labhub/t
 **Housekeeping**
 
 Need to find a team member's Skype ID, add someone to your Slack Team, or confirm when your next NIH progress report is due?  Check out our Housekeeping template to record everyday organizational data for easy sharing and retrieval.
+
+**Wiki**
+
+Use a [Wiki](https://github.com/apreshill/labhub/wiki) to document helpful but less formal information about working in your lab, like where to find coffee, pens, and a key for deciphering lab acronyms.
 
 ## You don't have to use Github for your Labhub!
 The tools and strategies included in this repository can be translated to different environments.  There are many reasons why Github may not be the best solution for your team - maybe you're dealing with PHI data or most of your labmates aren't comfortable using Github.  In these cases, tools like [Gitlab](https://about.gitlab.com/), an electronic lab notebook, or even a simple folder structure might be the better starting place.
