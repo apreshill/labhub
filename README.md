@@ -20,7 +20,7 @@ This folder includes an [example protocol](https://github.com/apreshill/labhub/t
 
 **Housekeeping**
 
-Need to find a team member's Skype ID, add someone to your Slack Team, or confirm when your next NIH progress report is due?  Check out our Housekeeping template to record everyday organizational data for easy sharing and retrieval.
+Need to find a team member's Skype ID, add someone to your Slack Team, save [meeting minutes](http://third-bit.com/teaching/community.html#meetings-meetings-meetings), or confirm when your next NIH progress report is due?  Check out our Housekeeping template to record everyday organizational data for easy sharing and retrieval.
 
 **Wiki**
 
